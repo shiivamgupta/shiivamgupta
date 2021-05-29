@@ -1,8 +1,8 @@
-### Hi there 👋, This side "Shivam Gupta" from Pune, India.
+### Hi there 👋, This side "Shivam Gupta" from Chennai, India.
 ### "A challenge is something I’m ready to take every day while maintaining maximum output." 
 
 
-- 🔭 I am currently working as an **Embedded Software Engineer** in Webber ElectroCorp Pvt Ltd.
+- 🔭 I am currently working as an **Embedded Software Development Engineer** in **GE India**.
 - 🌱 I’m an **IBM SME Trainer** and trained many National & International students and freshers.
 - 👯 I feel "If you can imagine, I can create it."
 - 💬 Ask me about Embedded System Design & Development, AIoT, Electric Vehicles, etc.
